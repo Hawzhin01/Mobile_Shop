@@ -1,0 +1,15 @@
+C:\Users\hawzh\OneDrive\Desktop\programing\C#\mobile\mobile\bin\Debug\mobile.exe.config
+C:\Users\hawzh\OneDrive\Desktop\programing\C#\mobile\mobile\bin\Debug\mobile.exe
+C:\Users\hawzh\OneDrive\Desktop\programing\C#\mobile\mobile\bin\Debug\mobile.pdb
+C:\Users\hawzh\OneDrive\Desktop\programing\C#\mobile\mobile\obj\Debug\mobile.csproj.AssemblyReference.cache
+C:\Users\hawzh\OneDrive\Desktop\programing\C#\mobile\mobile\obj\Debug\mobile.Login.resources
+C:\Users\hawzh\OneDrive\Desktop\programing\C#\mobile\mobile\obj\Debug\mobile.Properties.Resources.resources
+C:\Users\hawzh\OneDrive\Desktop\programing\C#\mobile\mobile\obj\Debug\mobile.csproj.GenerateResource.cache
+C:\Users\hawzh\OneDrive\Desktop\programing\C#\mobile\mobile\obj\Debug\mobile.csproj.CoreCompileInputs.cache
+C:\Users\hawzh\OneDrive\Desktop\programing\C#\mobile\mobile\obj\Debug\mobile.exe
+C:\Users\hawzh\OneDrive\Desktop\programing\C#\mobile\mobile\obj\Debug\mobile.pdb
+C:\Users\hawzh\OneDrive\Desktop\programing\C#\mobile\mobile\obj\Debug\mobile.Mobile.resources
+C:\Users\hawzh\OneDrive\Desktop\programing\C#\mobile\mobile\obj\Debug\mobile.Access.resources
+C:\Users\hawzh\OneDrive\Desktop\programing\C#\mobile\mobile\obj\Debug\mobile.base.resources
+C:\Users\hawzh\OneDrive\Desktop\programing\C#\mobile\mobile\obj\Debug\mobile.Report.resources
+C:\Users\hawzh\OneDrive\Desktop\programing\C#\mobile\mobile\obj\Debug\mobile.Sells.resources
